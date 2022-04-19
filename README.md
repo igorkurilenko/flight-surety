@@ -29,7 +29,7 @@ Oracles simulate insurance case after which passenger can get a payout.
 
 `truffle migrate --reset`
 
-# Start the Server
+## Start the Server
 
 To start the flight status simulation server:
 
@@ -41,7 +41,7 @@ To start the flight status simulation server:
 
 You can check server status and simulating oralces number at [localhost:3000](http://localhost:3000).
 
-# Start the dApp
+## Start the dApp
 
 To start the dApp run following commands in a separate terminal:
 
@@ -53,7 +53,7 @@ To start the dApp run following commands in a separate terminal:
 
 Open [localhost:8080](http://localhost:8080) in your browser.
 
-# dApp Screenshots
+## dApp Screenshots
 
 Accounts registered as airline can register flights and new airlines. Registration of fifth and subsequent airlines requires multi-party consensus of 50% of registered airlines. So airline accounts can access the voting.
 
@@ -65,7 +65,7 @@ Passengers can purchase insurance, invoke the simulation of flight fault due air
 
 >Flights and airlines are statically programmed. The list with allowed for registration flights and airlines is printed in the developer console.
 
-# Test contracts
+## Test contracts
 
 To run truffle tests:
 
