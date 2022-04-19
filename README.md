@@ -59,7 +59,7 @@ Accounts registered as airline can register flights and new airlines. Registrati
 
 ![alt text](./screenshots/airlines.png "Airlines")
 
-Passengers can purchase insurance, invoke the simulation of flight fault due airline and then get a payout.
+Passengers can purchase insurance, invoke the simulation of flight fault due airline company and then get a payout.
 
 ![alt text](./screenshots/passengers.png "Passengers")
 
